@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-family: "Comic Sans MS";
+    background-color: #706ed4;
+    color: #e3a92b;
+    padding: 10px;
+}
+
+h2{
+    color: white;
+    font-family: "Comic Sans MS";
+}
+
+p{
+    font-family: "Comic Sans MS";
+    color: white;
+}
+
+li{
+    font-family: "Comic Sans MS";
+    color: white;
+}
+
+.pokemon_images{
+    vertical-align: middle;
+}
